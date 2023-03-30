@@ -5,8 +5,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-header {
+.header {
     margin: 44 px 0 144px 76px;
+    margin-left: 76px;
 }
 .link {
     font-weight: 600;
